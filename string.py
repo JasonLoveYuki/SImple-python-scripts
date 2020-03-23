@@ -1,0 +1,1 @@
+print 'Python was started by "Guido".\nPython is free to learn'

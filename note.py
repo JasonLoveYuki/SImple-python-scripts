@@ -1,0 +1,2 @@
+#gansihuangxudong
+print 'hello,','world'
